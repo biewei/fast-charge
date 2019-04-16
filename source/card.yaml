@@ -1,0 +1,24 @@
+# 银行卡管理
+ICBC:
+    code: "ICBC"
+    name: "中国工商银行"
+    selectid: ""
+    number: ""
+    password: ""
+    udpass: ""
+
+CCB1:
+    code: "CCB"
+    name: "中国建设银行"
+    selectid: ""
+    number: ""
+    password: ""
+    udpass: ""
+
+CCB2:
+    code: "CCB"
+    name: "中国建设银行"
+    selectid: ""
+    number: ""
+    password: ""
+    udpass: ""
